@@ -1,0 +1,19 @@
+#include <main.h>
+
+const int digit[8]={0x70,0x60,0x50,0x40,0x30,0x20,0x10,0x00};
+void main()
+{
+int32 sayi=12345678;
+int sayac=0;
+   while(TRUE)
+   {
+   int32 gecici=sayi;
+   while(gecici>0)
+      {
+         if(gecici=0)
+         {
+         
+         }
+      }
+   }
+}
